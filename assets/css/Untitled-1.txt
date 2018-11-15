@@ -1,0 +1,19 @@
+p class="topnav"> 
+                            <a href="index.html">About</a>
+                            <a href="portfolio.html">Portfolio</a>
+                            <a href="contact.html">Contact</a>
+                        </p>
+
+.topnav a {
+    background-color: #ffffff;
+    display: inline-block;
+    color:#666666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+    float: right;
+
+    
+
+}
