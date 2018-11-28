@@ -340,8 +340,7 @@ input[type=submit] {
       float: none;
       width: 100%;
       height: auto;
-      margin-top: 10px;
-      margin-right: 25px;
+    
     }
 
     .work {
@@ -378,3 +377,4 @@ input[type=submit] {
 
 
   }
+}
