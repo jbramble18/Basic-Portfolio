@@ -1,0 +1,231 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    border-bottom: 2px solid #cccccc;
+    margin-top: -64px;
+
+}
+
+
+#h1 {
+    width: 20%;
+    background-color: #4aaaa5;
+    padding: 20px;
+    text-align: center;
+    margin-left: 290px;
+    margin-top: 43px;
+    color: white;
+    font-size: 30px;
+    float: left;
+    height: 75px;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 50px;
+    overflow: hidden;
+    background-color: white;
+    font-size: 16px;
+    margin-right: 280px;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #9fa3bb;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(../images/vintage-concrete.png);
+    margin: 0px;
+}
+
+#section {
+    background-color: #ffffff;
+    display: block;
+    font-size: 20px;
+    clear: both;
+    padding-left: 20px;
+    height: 450px;
+    margin-right: 290px;
+    margin-left: 290px;
+
+}
+
+h2 {
+    font-size: 30px;
+    color: #4aaaa5;
+    margin-left: 0px;
+    border-bottom: solid 2px lightgrey;
+    margin-right: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+
+}
+
+#img_0298 {
+    float: left;
+    padding: 0px;
+    margin-left: 0px;
+    width: 185px;
+    height: 139px;
+    margin-right: 15px;
+
+}
+
+#p1 {
+    clear: both;
+    overflow: auto;
+    padding: 0px;
+    padding-right: 10px;
+    margin-left: 0px;
+    width: 100%;
+    background-color: #ffffff;
+    line-height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-right: 0px;
+    float: right;
+
+}
+
+
+#p2 {
+    padding-right: 10px;
+    margin-left: 0px;
+    width: 100%;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+form {
+    margin-left: -20px;
+    margin-right: 0px;
+    margin-bottom: 200px;
+    margin-top: 0px;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+
+#section2 {
+    background-color: #ffffff;
+    display: block;
+    font-size: 20px;
+    clear: both;
+    padding-left: 20px;
+    height: 650px;
+    margin-right: 290px;
+    margin-left: 290px;
+    margin-bottom: 150px;
+
+}
+
+.imageContainer {
+    position: relative;
+    height: 135px;
+    width: 180px;
+    margin: 15px;
+}
+img {
+    height: 150px;
+    width: 180px;
+}
+.insideImage {
+    position: absolute;
+    width: 180px;
+    background-color: #4aaaa5;
+    text-align: center;
+    height: 64px;
+    color: white;
+    padding-top: 20px;
+    top: 49%;
+    left: 0;
+
+}
+
+
+#hangman {
+    float: left;
+    position: relative;
+    margin-top: 20px;
+    
+
+}
+
+#rpg-game {
+    float: left;
+    margin-left: 0px;
+    position: relative;
+    margin-top: 20px;
+    
+}
+
+#trivia-game {
+    clear: left;
+    float: left;
+    margin-top: 20px;
+    position: relative;
+
+
+}
+
+#rutgers-info-widget {
+    float: left;
+    margin-left: 0px;
+    margin-top: 20px;
+    position: relative;
+
+}
+
+#rock-paper-scissors {
+    clear: left;
+    float: left;
+    margin-top: 20px;
+    position: relative;
+
+}
+
+
+footer {
+    background-color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top-style: solid;
+    border-color: #4aaaa5;
+    border-width: 8px;
+    color: white;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
